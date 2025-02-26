@@ -13,8 +13,6 @@
   <img align="center" alt="Wander-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Wander-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
-  
-  ##
  
 <div> 
   
